@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="cbe952c08390831074755c65eeaad306" label="Task Table" max_length="40" name="x_1727199_simple_0_task_table" text_index="true" type="collection">
+        <element label="Due Data" max_length="255" name="due_date" type="glide_date"/>
+        <element label="Task Name" max_length="40" name="task_name" type="string"/>
+    </element>
+</database>

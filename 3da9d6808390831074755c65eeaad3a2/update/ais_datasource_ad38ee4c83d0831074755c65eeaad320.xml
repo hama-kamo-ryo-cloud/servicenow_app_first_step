@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_datasource">
+    <ais_datasource action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <conflict>false</conflict>
+        <filter/>
+        <force_late_binding>false</force_late_binding>
+        <name>Task Table Table</name>
+        <retention_policy/>
+        <source>x_1727199_simple_0_task_table</source>
+        <sys_class_name>ais_datasource</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-12 11:42:55</sys_created_on>
+        <sys_id>ad38ee4c83d0831074755c65eeaad320</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Task Table Table</sys_name>
+        <sys_package display_value="Simple Task Manager" source="x_1727199_simple_0">3da9d6808390831074755c65eeaad3a2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Simple Task Manager">3da9d6808390831074755c65eeaad3a2</sys_scope>
+        <sys_update_name>ais_datasource_ad38ee4c83d0831074755c65eeaad320</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-12 11:42:56</sys_updated_on>
+        <type>internal</type>
+    </ais_datasource>
+</record_update>

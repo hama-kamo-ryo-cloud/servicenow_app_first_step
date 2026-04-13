@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list">
+    <sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Audience for app simple-task-manager">d538ae4c83d0831074755c65eeaad395</applicability>
+        <list display_value="All">2938ae4c83d0831074755c65eeaad3af</list>
+        <order>100</order>
+        <sys_class_name>sys_ux_applicability_m2m_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-12 11:42:55</sys_created_on>
+        <sys_id>6538ae4c83d0831074755c65eeaad3bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Simple Task Manager" source="x_1727199_simple_0">3da9d6808390831074755c65eeaad3a2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Simple Task Manager">3da9d6808390831074755c65eeaad3a2</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_list_6538ae4c83d0831074755c65eeaad3bc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-12 11:42:55</sys_updated_on>
+    </sys_ux_applicability_m2m_list>
+</record_update>
