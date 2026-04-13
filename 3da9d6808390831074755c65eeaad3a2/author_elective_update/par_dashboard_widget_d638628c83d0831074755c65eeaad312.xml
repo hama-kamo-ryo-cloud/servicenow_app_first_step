@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">1638228c83d0831074755c65eeaad3e3</canvas>
+        <component display_value="Heading">1f6e0643eca7a637e36bd7833549ec9e</component>
+        <component_props>{"variant":"header-primary","label":"Happening Now","wontWrap":false,"hasNoMargin":false,"level":"1","filterConfigurations":[],"noDebounce":"","contextMenuActions":[]}</component_props>
+        <h>3</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-12 11:42:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d638628c83d0831074755c65eeaad312</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Simple Task Manager" source="x_1727199_simple_0">3da9d6808390831074755c65eeaad3a2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Simple Task Manager">3da9d6808390831074755c65eeaad3a2</sys_scope>
+        <sys_update_name>par_dashboard_widget_d638628c83d0831074755c65eeaad312</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-12 11:42:58</sys_updated_on>
+        <visualization/>
+        <w>47</w>
+        <widget_props/>
+        <x>0</x>
+        <y>0</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Simple Task Manager">3da9d6808390831074755c65eeaad3a2</application>
+        <file_path/>
+        <instance_id>82eccb0193b8aad4d9f6ddd548373c01</instance_id>
+        <instance_name>dev320723</instance_name>
+        <name>par_dashboard_widget_d638628c83d0831074755c65eeaad312</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">1638228c83d0831074755c65eeaad3e3</canvas><component display_value="Heading">1f6e0643eca7a637e36bd7833549ec9e</component><component_props>{"variant":"header-primary","label":"Happening Now","wontWrap":false,"hasNoMargin":false,"level":"1","filterConfigurations":[],"noDebounce":"","contextMenuActions":[]}</component_props><h>3</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-04-12 11:42:58</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d638628c83d0831074755c65eeaad312</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Simple Task Manager" source="x_1727199_simple_0">3da9d6808390831074755c65eeaad3a2</sys_package><sys_policy/><sys_scope display_value="Simple Task Manager">3da9d6808390831074755c65eeaad3a2</sys_scope><sys_update_name>par_dashboard_widget_d638628c83d0831074755c65eeaad312</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-04-12 11:42:58</sys_updated_on><visualization/><w>47</w><widget_props/><x>0</x><y>0</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>536038314</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>b9a9d6808390831074755c65eeaad3ab</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-12 11:42:58</sys_created_on>
+        <sys_id>9e38628c83d0831074755c65eeaad315</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19d81808d4f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-12 11:42:58</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>9a38628c45d08310caea0196bff03414</update_guid>
+        <update_guid_history>9a38628c45d08310caea0196bff03414:536038314</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">a238628c83d0831074755c65eeaad381</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-12 11:42:59</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>439702f98c4542128165fa62e2999e51</sys_id>
+        <sys_metadata>d638628c83d0831074755c65eeaad312</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Simple Task Manager" source="x_1727199_simple_0">3da9d6808390831074755c65eeaad3a2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Simple Task Manager">3da9d6808390831074755c65eeaad3a2</sys_scope>
+        <sys_scope_delete display_value="">6af3a112c6834104ae0355940ead4c29</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_d638628c83d0831074755c65eeaad312</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_d638628c83d0831074755c65eeaad312">9e38628c83d0831074755c65eeaad315</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-12 11:42:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

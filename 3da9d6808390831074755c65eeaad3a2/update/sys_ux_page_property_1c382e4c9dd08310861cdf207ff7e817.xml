@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>chrome_footer</name>
+        <page display_value="Simple Task Manager">d8382e4cdfd083105d52ae7aa2bd282a</page>
+        <required_translations>[ ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-12 11:42:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>1c382e4c9dd08310861cdf207ff7e817</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_footer</sys_name>
+        <sys_package display_value="Simple Task Manager" source="x_1727199_simple_0">3da9d6808390831074755c65eeaad3a2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Simple Task Manager">3da9d6808390831074755c65eeaad3a2</sys_scope>
+        <sys_update_name>sys_ux_page_property_1c382e4c9dd08310861cdf207ff7e817</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-12 11:42:52</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1727199_simple_0.d8382e4cdfd083105d52ae7aa2bd282a.root.chrome_footer</unique_name>
+        <value>{"public_page":{"enable_footer_topbar":false,"footer_topbar_options":{},"enable_footer_bar":false,"footer_bar_options":{}}}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=1c382e4c9dd08310861cdf207ff7e817"/>
+</record_update>

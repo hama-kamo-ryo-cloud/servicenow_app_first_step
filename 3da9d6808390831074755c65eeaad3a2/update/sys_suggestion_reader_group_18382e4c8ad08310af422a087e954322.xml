@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group">
+    <sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <click_in_mode>false</click_in_mode>
+        <context_config_id display_value="Simple Task Manager AI Search Configuration">10382e4cf9d0831097ba50f9cec1db21</context_config_id>
+        <limit>5</limit>
+        <order>600</order>
+        <section_header>Suggested</section_header>
+        <suggestion_type>Search-based Suggested Results Reader Group for Starter Workspace AI Search Configuration</suggestion_type>
+        <sys_class_name>sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-12 11:42:52</sys_created_on>
+        <sys_id>18382e4c8ad08310af422a087e954322</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Search-based Suggested Results Reader Group for Starter Workspace AI Search Configuration</sys_name>
+        <sys_package display_value="Simple Task Manager" source="x_1727199_simple_0">3da9d6808390831074755c65eeaad3a2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Simple Task Manager">3da9d6808390831074755c65eeaad3a2</sys_scope>
+        <sys_update_name>sys_suggestion_reader_group_18382e4c8ad08310af422a087e954322</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-12 11:42:52</sys_updated_on>
+    </sys_suggestion_reader_group>
+</record_update>
