@@ -4,13 +4,13 @@
             <element>task_name</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-04-12 11:45:06</sys_created_on>
-            <sys_id>29b8a6cc83d0831074755c65eeaad3eb</sys_id>
+            <sys_created_on>2026-04-19 10:18:28</sys_created_on>
+            <sys_id>b4081e528390031074755c65eeaad36e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1727199_simple_0_task_table" sys_domain="global" view="18382e4ce0d0831056560639ffd07a1f">5e38228c83d0831074755c65eeaad3a9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-04-12 11:45:06</sys_updated_on>
+            <sys_updated_on>2026-04-19 10:18:28</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,27 @@
             <element>due_date</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-04-12 11:45:06</sys_created_on>
-            <sys_id>25b8a6cc83d0831074755c65eeaad3ed</sys_id>
+            <sys_created_on>2026-04-19 10:18:28</sys_created_on>
+            <sys_id>fc081e528390031074755c65eeaad36f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1727199_simple_0_task_table" sys_domain="global" view="18382e4ce0d0831056560639ffd07a1f">5e38228c83d0831074755c65eeaad3a9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-04-12 11:45:06</sys_updated_on>
+            <sys_updated_on>2026-04-19 10:18:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-19 10:18:28</sys_created_on>
+            <sys_id>7c081e528390031074755c65eeaad370</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1727199_simple_0_task_table" sys_domain="global" view="18382e4ce0d0831056560639ffd07a1f">5e38228c83d0831074755c65eeaad3a9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-19 10:18:28</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
